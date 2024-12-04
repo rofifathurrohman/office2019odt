@@ -1,0 +1,8 @@
+<Configuration>
+    <Add SourcePath="C:\ODT" OfficeClientEdition="64" Channel="Current">
+        <Product ID="ProPlus2019Retail">
+            <Language ID="en-US"/>
+        </Product>
+    </Add>
+    <Display Level="Full" AcceptEULA="TRUE"/>
+</Configuration>
